@@ -1,0 +1,9 @@
+[project]
+name = "azure-102"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=2.14.0",
+    "python-dotenv>=1.0.0",
+]
