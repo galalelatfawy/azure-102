@@ -12,3 +12,6 @@ wheels/
 # Environment variables
 .env
 uv.lock
+
+# Audio output files
+output_audio_*.wav
